@@ -7,3 +7,40 @@
 body{
     font-family: Lora, serif
 }
+
+.container{
+    width: 80%;
+    padding: 8px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: #2C2A29;
+    margin-bottom: 52px;
+}
+
+.image_demo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.image_demo img{
+    width: 45%;
+    border-radius: 10px;
+}
+
+.text_demo{
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.text_demo p{
+    font-size: 16px;
+    line-height: 22px;
+    word-spacing: 6px;
+    font-family: Lato, serif;
+}
