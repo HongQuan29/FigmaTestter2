@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Lora, serif
+}
+
+.container{
+    width: 80%;
+    padding: 8px 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 40px;
+    color: #2C2A29;
+    margin-bottom: 20px;
+}
