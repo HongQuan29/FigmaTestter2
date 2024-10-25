@@ -17,7 +17,18 @@ body{
 
 h1{
     font-weight: normal;
-    font-size: 40px;
+    font-size: 50px;
     color: #2C2A29;
     margin-bottom: 20px;
+}
+
+.image_demo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.image_demo img{
+    width: 45%;
+    border-radius: 10px;
 }
